@@ -1,2 +1,3 @@
 plik
 druga linia
+trzecia linia
